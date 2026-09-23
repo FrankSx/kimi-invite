@@ -10,7 +10,11 @@ Direct invite link:
 
 **https://kimi.ai/activities/invite/share?scenario=subscribe&from=share_poster&invitation_code=HZUT8F**
 
-Or open [`index.html`](index.html) in this repo and scan the QR code with your phone.
+Or scan the QR code:
+
+![Kimi invite QR](https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=https%3A%2F%2Fkimi.ai%2Factivities%2Finvite%2Fshare%3Fscenario%3Dsubscribe%26from%3Dshare_poster%26invitation_code%3DHZUT8F)
+
+A standalone landing page is in [`index.html`](index.html) — open it via [HTML preview](https://htmlpreview.github.io/?https://github.com/FrankSx/kimi-invite/blob/main/index.html).
 
 ## What is Kimi?
 
@@ -18,10 +22,10 @@ Kimi is Moonshot AI's flagship assistant — long-context reasoning, agentic cod
 
 ## How it works
 
-1. Click the invite link above (or scan the QR in `index.html`)
+1. Click the invite link above (or scan the QR)
 2. Sign up / log in to Kimi
 3. Complete the listed tasks
-4. Credits are credited to your account
+4. Credits land in your account
 
 ## Keywords
 
